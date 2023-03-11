@@ -1,15 +1,29 @@
-***ERROR: NOT FOUND***
-<!--
-**umangapathak999/umangapathak999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello,
 
-Here are some ideas to get you started:
+### I am :
+- Human
+- Not a robot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages:
+- Php
+- Python
+- JS
+- HTML
+
+---
+
+### Reach out to me on
+- Real life
+
+---
+
+### For discussions on projects you can
+- Visit me in real life
+
+### My stats:
+![umangapathak999's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangapathak999&count_private=true&theme=dracula)
+
+
+---
