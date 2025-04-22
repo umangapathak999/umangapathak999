@@ -22,8 +22,4 @@
 ### For discussions on projects you can
 - Visit me in real life
 
-### My stats:
-![umangapathak999's GitHub stats](https://github-readme-stats.vercel.app/api?username=umangapathak999&count_private=true&theme=dracula)
-
-
 ---
